@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "title": "gojo tees",
+      "price": 499
+    },
+    {
+      "title": "demon slayer",
+      "price": 459
+    },
+    {
+      "title": "tanjiro",
+      "price": 499
+    },
+    {
+      "title": "naruto",
+      "price": 549
+    },
+    {
+      "title": "one piece",
+      "price": 500
+    },
+    {
+      "title": "naomi",
+      "price": 600
+    },
+    {
+      "title": "sukuna",
+      "price": 500
+    },
+    {
+      "title": "slime",
+      "price": 800
+    }
+  ]
+}
